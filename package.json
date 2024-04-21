@@ -1,0 +1,17 @@
+{
+  "name": "tencent_cls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "tencentcloud-cls-sdk-js": "^1.0.5",
+    "tencentcloud-sdk-nodejs-cls": "^4.0.821"
+  }
+}
